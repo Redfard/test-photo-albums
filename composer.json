@@ -1,0 +1,15 @@
+{
+    "name": "redsp/test",
+    "authors": [
+        {
+            "name": "Alexey",
+            "email": "redspector@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
